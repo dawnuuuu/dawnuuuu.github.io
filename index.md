@@ -8,12 +8,12 @@
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
     <a href="/pdf/DQL_Task_Offloading.pdf">
-      <img src="images/average reward evaluation.png?raw=true" style="width: 100%;"/>
+      <img src="images/average reward evaluation.png?raw=true" style="width: 50%;"/>
     </a>
   </div>
   <div style="flex: 1;">
     <a href="/pdf/DQL_Task_Offloading.pdf">
-      <img src="images/system_model.png?raw=true" style="width: 100%;"/>
+      <img src="images/system_model.png?raw=true" style="width: 50%;"/>
     </a>
   </div>
 </div>
