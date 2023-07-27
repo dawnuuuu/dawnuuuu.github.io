@@ -6,10 +6,10 @@
 
 [Deep Q-learning for Task Offloading in Fog-Cloud Environment](/pdf/DQL_Task_Offloading.pdf)
 <div class="row">
-<div class="column">
+<div class="column" width: 50%>
 <img src="images/average reward evaluation.png?raw=true"/>
 </div>
-<div class="column">
+<div class="column" width: 50%>
 <img src="images/system_model.png?raw=true"/>
 </div>
 </div>
