@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Research papers
 
 [Deep Q-learning for Task Offloading in Fog-Cloud Environment](/pdf/DQL_Task_Offloading.pdf)
 <div class="row">
