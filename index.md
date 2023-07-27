@@ -5,14 +5,19 @@
 ### Research papers
 
 [Deep Q-learning for Task Offloading in Fog-Cloud Environment](/pdf/DQL_Task_Offloading.pdf)
-<div class="row">
-<div class="column" style="width: 50%;">
-<img src="images/average reward evaluation.png?raw=true"/>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <a href="/pdf/DQL_Task_Offloading.pdf">
+      <img src="images/average reward evaluation.png?raw=true" style="width: 100%;"/>
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <a href="/pdf/DQL_Task_Offloading.pdf">
+      <img src="images/system_model.png?raw=true" style="width: 100%;"/>
+    </a>
+  </div>
 </div>
-<div class="column" style="width: 50%;">
-<img src="images/system_model.png?raw=true"/>
-</div>
-</div>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
