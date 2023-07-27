@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Deep Q-learning for Task Offloading in Fog-Cloud Environment](/pdf/DQL_Task_Offloading.pdf)
+<img src="images/average reward evaluation.png?raw=true"/>
+<img src="images/system_model.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
